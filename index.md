@@ -15,8 +15,9 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Introduction
 
-Body
+Ahmad Najmi Bin Muhamad Sade
+(Department of Artificial Intelligence) 
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
